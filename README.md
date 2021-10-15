@@ -1,4 +1,4 @@
-# 1st-round
-Congratulations!
-U have found the second octet 
+# 1st-round </n>
+Congratulations!<br>
+U have found the second octet <br>
 10100110
